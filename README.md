@@ -1,0 +1,2 @@
+# San-Jose-Sharks-NHL-team
+Miriam Lira  The program is about the San Jose Sharks NHL team.   The program is broken down into six categories as follows: ID, Player Name, Age, Number, Origin, Position, and Shoots.   The program provides the user information of each of the players of the San Jose Sharks.  As the categories are implied by themselves, anyone can figure out basic information of the San Jose Sharks hockey team. Microsoft Visual Studio Community 2019 Version 16.11.2 9/19/2021
